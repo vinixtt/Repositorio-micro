@@ -1,4 +1,4 @@
-void questao2(){
+void solution2(){
 	  while (1){
 		  Delay_us(1000000);
 
